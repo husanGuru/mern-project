@@ -1,8 +1,8 @@
 {
   "name": "mern-marketplace",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A MERN stack based online marketplace application",
-  "author": "Shama Hoque",
+  "author": "Husan Abdigafurov",
   "license": "MIT",
   "keywords": [
     "react",
